@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xG74tOh.png)
 
-# Módulo 01 - Aula 04 - Lógica em Dart 02
+# Módulo 01 - Aula 05 - Lógica em Dart 02
 
 Nesse repositório pode ser encontrado todo o código utilizado nessa aula, além dos exercícios e suas resoluções.
 
@@ -21,7 +21,7 @@ Nesse repositório pode ser encontrado todo o código utilizado nessa aula, alé
 1. Para acessar as resoluções é necessário mudar de `branch` para `solutions`:
    - Se você utiliza o terminal:
         ```bash
-        cd flutter-m01-a04
+        cd flutter-m01-a05
         git checkout solutions
         ```
    - Se você utiliza o GitHub Desktop: 
