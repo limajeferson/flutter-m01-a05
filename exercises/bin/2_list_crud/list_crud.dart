@@ -6,7 +6,7 @@ void main() {
 
   // Criar lista de trabalho
 
-  //Algoritmo
+  // Algoritmo
 
   // Cálculos -> Se > 5, "Lista válida", se não, "Lista inválida"
 }
