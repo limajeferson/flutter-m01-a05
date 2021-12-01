@@ -3,8 +3,8 @@
 void main() {
   final list = [3, 5, 10, 2, 5, 1, 2, 3, 6, 12, 15, 22, 8, 4, 13, 25];
 
-  // 1. Criar uma variável para salvar o maior, o menor, a média, quantidade de
-  // números ímpares e pares.
+  // 1. Criar uma variável para salvar o maior, o menor, a soma e a quantidade 
+  // de números ímpares e pares.
 
   // 2. Iterar sobre a lista.
 
