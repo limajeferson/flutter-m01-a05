@@ -45,7 +45,7 @@ void main() {
   
   if (workList.length > 5) {
     if (workList.first == 0 && workList.last == 10) {
-      workList.removeRange(1, workList.length - 5);
+      workList.removeRange(1, (workList.length + 1) - 5);
     } else if (workList[3] == 3) {
       workList.first = 1;
       workList.last = 9;
