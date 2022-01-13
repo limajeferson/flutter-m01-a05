@@ -77,7 +77,7 @@ void main() {
 
   // Bônus
 
-  List listG = List.from(listF);
+  List listG = listF;
   listF.add(5);
 
   print(listF);
